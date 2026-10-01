@@ -43,18 +43,18 @@ In a competitive market like the restaurant industry, understanding the factors 
 - **Higher ratings do not guarantee higher review counts, or vice versa.** Success is not determined by ratings or review counts alone.
 
 ### 5.3 Do restaurants with higher engagement have higher ratings?
-<img width="800" alt="02_engagement_by_rating" src="images/02_engagement_by_rating.png" />
+<img width="800" alt="02_engagement_by_rating" src="https://github.com/user-attachments/assets/e654e0f9-acca-47d0-953c-a819164113ee" />
 
 - Average reviews, check-ins, and tips increase as ratings improve from 1 to 4 stars
 - Engagement peaks at **4 stars** and drops at 5.0, suggesting either a saturation point or a small, selective audience
 
 ### 5.4 Correlation between reviews, tips, and check-ins
-<img width="450" alt="03_engagement_correlation" src="images/03_engagement_correlation.png" />
+<img width="450" alt="03_engagement_correlation" src="https://github.com/user-attachments/assets/e654e0f9-acca-47d0-953c-a819164113ee" />
 
 Correlations of 0.70 to 0.75 show engagement across platforms is interlinked: higher activity in one tends to go with higher activity in others.
 
 ### 5.5 High-rated vs. low-rated businesses
-<img width="600" alt="04_high_vs_low_rated" src="images/04_high_vs_low_rated.png" />
+<img width="600" alt="04_high_vs_low_rated" src="https://github.com/user-attachments/assets/e654e0f9-acca-47d0-953c-a819164113ee" />
 
 | Category | Reviews | Check-ins | Tips |
 |---|---|---|---|
@@ -74,12 +74,12 @@ Correlations of 0.70 to 0.75 show engagement across platforms is interlinked: hi
 > Add your time-series and decomposition charts here: `![Trends](images/trends.png)`
 
 ### 5.8 Sentiment (useful, funny, cool) vs. success
-<img width="500" alt="05_sentiment_correlation" src="images/05_sentiment_correlation.png" />
+<img width="500" alt="05_sentiment_correlation" src="https://github.com/user-attachments/assets/e654e0f9-acca-47d0-953c-a819164113ee" />
 
 Useful, funny, and cool counts correlate positively with success score (0.64, 0.45, and 0.66), with `review_count` at 0.70.
 
 ### 5.9 Elite vs. non-elite users
-<img width="650" alt="06_elite_users" src="images/06_elite_users.png" />
+<img width="650" alt="06_elite_users" src="https://github.com/user-attachments/assets/e654e0f9-acca-47d0-953c-a819164113ee" />
 
 Elite users are only **4.59%** of users but write **44.05%** of all reviews.
 
