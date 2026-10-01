@@ -36,7 +36,7 @@ In a competitive market like the restaurant industry, understanding the factors 
 | Median | 15 | 3.5 |
 
 ### 5.2 Highest rating vs. highest review count
-![Top 10 by review count](images/01_top_review_count.png)
+![Top 10 by review count]<img width="1350" height="750" alt="01_top_review_count" src="https://github.com/user-attachments/assets/e654e0f9-acca-47d0-953c-a819164113ee" />
 
 - Top-rated (5.0) restaurants are small independents with 7 to 77 reviews (e.g., Two Birds Cafe, La Bamba)
 - The most-reviewed are large chains (McDonald's 16,490 reviews, avg 1.87★)
