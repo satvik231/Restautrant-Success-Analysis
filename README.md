@@ -94,11 +94,4 @@ Engagement peaks from **4 PM to 1 AM**, suggesting higher dining-out demand in t
 - Low-rated restaurants should improve service quality and respond to customer feedback
 - Cities with high success scores are opportunities for chains to expand or invest further
 
-## 7. Repository Structure
-```
-├── data/        # raw and cleaned datasets
-├── notebooks/   # analysis notebooks
-├── sql/         # queries
-├── images/      # charts used in this report
-└── README.md
-```
+
