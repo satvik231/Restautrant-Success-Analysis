@@ -2,7 +2,7 @@
 
 Does user engagement (reviews, tips, check-ins) predict restaurant success? This project analyzes a subset of the Yelp dataset covering **8 metropolitan areas across the USA and Canada** to find out.
 
-**Tech stack:** `[SQL / Python / Pandas / Matplotlib / Seaborn / Jupyter]` *(edit to match what you used)*
+**Tech stack:** `[SQL / Python / Pandas / Matplotlib / Seaborn / Jupyter]` 
 
 ---
 
@@ -64,14 +64,14 @@ Correlations of 0.70 to 0.75 show engagement across platforms is interlinked: hi
 ### 5.6 Success metrics by state and city
 **Philadelphia** has the highest success score (high ratings combined with active engagement), followed by **Tampa, Indianapolis, and Tucson**.
 
-> Add your map screenshot here: `![City success map](images/city_map.png)`
+<img width="500" alt="city_map" src="https://github.com/satvik231/Restautrant-Success-Analysis/blob/main/city_map.jpeg" />
 
 ### 5.7 Engagement patterns over time
 - High-rated (3.5+) restaurants show steady or growing engagement over time
 - A sharp **COVID-19 drop** appears in tip and review engagement in 2020
 - **Trend & seasonality:** review counts trend upward, tip counts trend downward, and the year start/end (**Nov to Mar**) is the most engaging period
 
-> Add your time-series and decomposition charts here: `![Trends](images/trends.png)`
+<img width="500" alt="trends" src="https://github.com/satvik231/Restautrant-Success-Analysis/blob/main/trends.jpeg" />
 
 ### 5.8 Sentiment (useful, funny, cool) vs. success
 <img width="500" alt="05_sentiment_correlation" src="https://github.com/satvik231/Restautrant-Success-Analysis/blob/main/05_sentiment_correlation.png" />
@@ -86,7 +86,7 @@ Elite users are only **4.59%** of users but write **44.05%** of all reviews.
 ### 5.10 Busiest hours
 Engagement peaks from **4 PM to 1 AM**, suggesting higher dining-out demand in the evening and night.
 
-> Add your hourly engagement chart here: `![Busiest hours](images/busiest_hours.png)`
+<img width="500" alt="busiest_hour" src="https://github.com/satvik231/Restautrant-Success-Analysis/blob/main/busiest_hour.jpeg" />
 
 ## 6. Recommendations
 - Partner with elite users to amplify promotions, brand awareness, and customer acquisition
